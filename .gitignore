@@ -1,5 +1,6 @@
 *.log
 *.tmp
-.DS_Store
-Thumbs.db
-__pycache__/
+*.bak
+*.db
+*.zip
+Resolve20_Report_*/
